@@ -57,7 +57,7 @@ public class Data
 	   {
 	      return 0;
 	   }
-	   //Measurable max = objects[0];
+
 	   double min = Integer.MAX_VALUE;
 	   for (Measurable obj : objects)
 	   {
